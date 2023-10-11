@@ -17,8 +17,6 @@ I am **Yusuf Kerim Sartıtaş(JavaScript Full stack Developer)**. I ✨ like ✨
 
 <a href="mailto:ysfkrmsrts78@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Yusuf SARITAŞ | Gmail" width="35px"/></a>
 
-<a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
-
 </br>
 </br>
 
