@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am **Yusuf Kerim Sartıtaş(JavaScript Full stack Developer)**. I ✨ like ✨ problem solving, traveling, photography, video games, conversations. I ✨ like ✨ to explore new places with different traditions and cultures.
-
+I am **Yusuf Kerim Sarıtaş, and I am a Full Stack web developer specializing in Node.js and React**. Additionally, I am actively working on mobile applications using Flutter. I have prior experience in embedded systems and IoT systems in the C programming language. I have a passion for problem-solving, traveling, photography, dancing, video games, and engaging in meaningful conversations. I thoroughly enjoy exploring new places with diverse traditions and cultures. ✨
 - 🔭 I’m currently working on Node JS and React
 - 🌱 I’m currently learning c#
 - 👯 I’m looking to collaborate on new business ideas.
